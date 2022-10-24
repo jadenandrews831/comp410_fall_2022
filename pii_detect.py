@@ -29,6 +29,7 @@ def show_aggie_pride() -> list:
                    'Aggie born, Aggie bred',
                    'Aggies stick together',
                    'Never Ever Underestimate An Aggie. Move Forward With Purpose.',
+<<<<<<< HEAD
                    'Aggie For Life!',
                    'Go Aggie Pride!',
                    'Aggie Nation!',
@@ -46,6 +47,11 @@ def show_aggie_pride() -> list:
                    'Aggies Learn',
                    'Aggieee Prideee!',
                    'Aggies Lead!']
+=======
+                   'Aggies rock',
+                   'Aggies think, Aggies do!',
+                   'Can I Get an Aggie Pride?']
+>>>>>>> aacbb6daf15577880a245dfcbc1590ce526ed450
 
     return slogan_list
 
